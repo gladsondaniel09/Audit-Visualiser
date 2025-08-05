@@ -1,0 +1,24 @@
+.vertical-timeline-element-content {
+  box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
+  padding: 2em 3em !important;
+}
+
+.vertical-timeline-element-title {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.vertical-timeline-element-subtitle {
+  font-size: 1em;
+}
+
+.additional-data {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1em;
+}
+
+.additional-data p {
+  margin: 0.2em 0;
+  word-break: break-word;
+}
